@@ -1,4 +1,4 @@
-<h1>HI THERE ,I AM R.SUDHARSAN</h1>
+<h1>HI THERE ,I AM SUDHARSAN R</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*PcUTIKD7RU7PP0S66jrVJg.gif">
 <br><br>
